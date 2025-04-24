@@ -20,3 +20,4 @@ distribution = true
 
 [project.scripts]
 chatpro = "kafka_chat.chatpro:cli"
+chatcon = "kafka_chat.chatcon:cli"
