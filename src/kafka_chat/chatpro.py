@@ -15,7 +15,7 @@ def cli():
         if msg.lower() == 'exit':
             break
 
-    data = {'message': msg, 'time': time.time()}
-    # TODO 보내기
+        data = {'message': msg, 'time': time.time()}
+        # TODO 보내기
     
     print("채팅 종료")
