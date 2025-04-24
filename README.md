@@ -15,8 +15,6 @@ anonymous: 가나다라마바사
 anonymous: 안녕하세요
 ```
 
-- 소비자
-
 # test
 ```bash
 $ $KAFKA_HOME/bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server 15.164.210.200:19092
